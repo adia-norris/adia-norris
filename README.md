@@ -4,8 +4,6 @@
 </p>
  
  
- 
- 
 # Adia Norris
 Tech is my new playground and I'm enjoying all things related to programming. International travel provides me with immense joy. When I'm grounded you can find me gardening, hiking, at museum exhibits and outdoor festivals. I love to flex my cooking and baking skills for my friends, read trashy novels and take in an immeasurable amount of screen time with the various streaming services. My guilty pleasure includes playing online games (puzzles, word scrambles, etc).
  
@@ -45,7 +43,5 @@ Tech is my new playground and I'm enjoying all things related to programming. In
 
 
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: adiajo.norris@gmail.com
+
