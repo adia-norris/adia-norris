@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc0NDMxNDMsIm5iZiI6MTcyNzQ0Mjg0MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI3VDEzMTQwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMwMDg4M2Y0MGFiYWZjNmY4ODFmMDY4NGE2Y2UzMGMzZWIyYmUxZjI2ZDlmOTZiM2RjNWFjYzdlNzc3MThhODQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tEgFFCNPdkjWdsYdXuCRJA1_KmHxVFjUrLCla8v01V0" width="700"/>
@@ -8,7 +7,7 @@
  
  
 # Adia Norris
-International travel provides me with immense joy, but in Kentucky I have learned to embrace gardening, hiking, museum exhibits and outdoor festivals, as my allergies permit. I to flex my cooking and baking skills for my friends, read trashy novels and take in an immeasurable amount of screen time with the various streaming services. My guilty pleasure includes playing online games (puzzles, word scrambles, etc).
+Tech is my new playground and I'm enjoying all things related to programming. International travel provides me with immense joy. When I'm grounded you can find me gardening, hiking, at museum exhibits and outdoor festivals. I love to flex my cooking and baking skills for my friends, read trashy novels and take in an immeasurable amount of screen time with the various streaming services. My guilty pleasure includes playing online games (puzzles, word scrambles, etc).
  
 ### 🛠️ Skills & Tools
  
@@ -46,17 +45,6 @@ International travel provides me with immense joy, but in Kentucky I have learne
 
 
 
-
-<!--
-**adia-norris/adia-norris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
